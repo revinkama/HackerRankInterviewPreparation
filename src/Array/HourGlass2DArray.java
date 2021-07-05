@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 import java.io.BufferedReader;
 import java.io.IOException;
